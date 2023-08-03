@@ -1,6 +1,3 @@
-Olá 👋
-Eu sou Ramon Scotelaro, um entusiasta da tecnologia atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida, no Rio de Janeiro, Brasil.
+Olá 👋, eu me chamo Ramon Scotelaro e sou apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida, no Rio de Janeiro, Brasil.
 
-🌱 Atualmente, estou aprendendo e aprimorando meus conhecimentos na área de Análise e Desenvolvimento de Sistemas.
-
-💼 Tenho interesse em oportunidades de emprego como Analista, Desenvolvedor de Software, Desenvolvedor Backend, Desenvolvedor Frontend ou Analista de Dados.
+🌱 Estou dedicado a aprender e aprimorar meus conhecimentos em diversas áreas do desenvolvimento e análise de dados.
