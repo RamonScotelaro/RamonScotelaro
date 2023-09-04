@@ -5,7 +5,7 @@
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-scotelaro-47a237226/) &nbsp; [**<span style="font-size: larger;">Ramon Scotelaro</span>**](https://www.linkedin.com/in/ramon-scotelaro-47a237226/)
  
-- Email: ramondacunha98@gmail.com 
+ 📧 Email: ramondacunha98@gmail.com 
 
  
 ## Projetos
